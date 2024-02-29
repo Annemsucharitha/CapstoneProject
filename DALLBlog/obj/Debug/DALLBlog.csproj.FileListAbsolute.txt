@@ -1,0 +1,14 @@
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\obj\Debug\DALLBlog.csproj.AssemblyReference.cache
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\obj\Debug\DALLBlog.csproj.CoreCompileInputs.cache
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\bin\Debug\DALLBlog.dll.config
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\bin\Debug\DALLBlog.dll
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\bin\Debug\DALLBlog.pdb
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\bin\Debug\EntityFramework.dll
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\bin\Debug\EntityFramework.xml
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\obj\Debug\DALLBlog.csproj.CopyComplete
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\obj\Debug\DALLBlog.dll
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\obj\Debug\DALLBlog.pdb
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\obj\Debug\DALLBlog.Migrations.blogmig.resources
+C:\Users\Annem sucharitha\MC\DALLBlog\DALLBlog\obj\Debug\DALLBlog.csproj.GenerateResource.cache
